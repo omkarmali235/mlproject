@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: Omkar
+Author-email: omkarmali235@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib.inline
