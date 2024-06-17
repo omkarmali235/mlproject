@@ -6,4 +6,7 @@ Author-email: omkarmali235@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
+Requires-Dist: matplotlib
 Requires-Dist: matplotlib.inline
+Requires-Dist: scikit-learn
+Requires-Dist: catboost

@@ -1,4 +1,4 @@
-prefix=F:/mlproject/venv/Library 
+prefix=f:/mlproject/venv/Library 
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
@@ -8,4 +8,4 @@ Description: OpenSSL cryptography library
 Libs: -L"${libdir}" -llibcrypto
 Libs.private: -lcrypt32 -lws2_32
 Cflags: -I"${includedir}"
-Version: 3.0.13 
+Version: 3.0.14 

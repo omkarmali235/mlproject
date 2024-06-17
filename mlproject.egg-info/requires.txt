@@ -1,4 +1,7 @@
 pandas
 numpy
 seaborn
+matplotlib
 matplotlib.inline
+scikit-learn
+catboost
